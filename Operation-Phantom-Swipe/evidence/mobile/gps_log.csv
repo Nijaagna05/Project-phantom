@@ -1,0 +1,10 @@
+Timestamp,Latitude,Longitude,Location_Label
+2026-08-10 08:52:14,28.6139,77.2090,New Delhi
+2026-08-10 09:05:32,28.6148,77.2101,Near ATM Area
+2026-08-10 11:21:08,28.6280,77.2183,Central Delhi
+2026-08-10 12:47:19,28.6304,77.2177,Commercial Area
+2026-08-10 14:12:41,28.6139,77.2090,New DelhiTransaction_ID,Timestamp,Merchant,Amount_INR,Card_Ref,Status
+TX001,2026-08-10 12:31:14,Online Electronics Store,18499,CD001,Declined
+TX002,2026-08-10 12:36:48,Digital Marketplace,7299,CD002,Declined
+TX003,2026-08-10 12:44:03,Online Electronics Store,12999,CD003,Approved-Simulated
+TX004,2026-08-10 12:51:27,Gift Card Store,4999,CD004,Declined

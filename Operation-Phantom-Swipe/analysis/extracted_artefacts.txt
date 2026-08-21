@@ -1,0 +1,44 @@
+OPERATION PHANTOM SWIPE
+FORENSIC ARTEFACT EXTRACTION REPORT
+====================================
+
+Artefact 01
+Type: Fictional card record
+Source: captured_data.csv
+Finding: Record CD001 associated with ATM-DL-047.
+Significance: Indicates simulated collection of payment-card data.
+
+Artefact 02
+Type: Device identifier
+Source: device_log.txt
+Finding: Device ID PS-SK-047 recorded repeated capture activity.
+Significance: Links captured records to the simulated skimmer.
+
+Artefact 03
+Type: Communication
+Source: messages.txt
+Finding: Message states that the device contains the latest records.
+Significance: Indicates awareness of captured data.
+
+Artefact 04
+Type: GPS location
+Source: gps_log.csv
+Finding: Device was recorded near the simulated ATM area.
+Significance: Provides a temporal/location correlation.
+
+Artefact 05
+Type: Suspicious transaction
+Source: transactions.csv
+Finding: Transaction TX003 used reference CD003 for a simulated
+online purchase.
+Significance: Connects captured data with attempted fraudulent use.
+
+Artefact 06
+Type: Data transfer event
+Source: device_log.txt
+Finding: Wireless transfer was recorded at 11:03:04.
+Significance: Supports the simulated movement of captured records.
+
+DISCLAIMER:
+All evidence and artefacts in this repository are fictional and
+were created solely for academic simulation.

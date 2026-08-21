@@ -1,0 +1,5 @@
+Transaction_ID,Timestamp,Merchant,Amount_INR,Card_Ref,Status
+TX001,2026-08-10 12:31:14,Online Electronics Store,18499,CD001,Declined
+TX002,2026-08-10 12:36:48,Digital Marketplace,7299,CD002,Declined
+TX003,2026-08-10 12:44:03,Online Electronics Store,12999,CD003,Approved-Simulated
+TX004,2026-08-10 12:51:27,Gift Card Store,4999,CD004,Declined

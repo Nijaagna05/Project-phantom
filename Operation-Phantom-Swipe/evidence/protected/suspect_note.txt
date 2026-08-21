@@ -1,0 +1,8 @@
+OPERATION PHANTOM SWIPE
+SIMULATED CONFIDENTIAL NOTE
+
+The following archive is synthetic evidence created solely for
+academic digital-forensics training.
+
+Archive ID: PS-PROT-01
+Status: SIMULATION

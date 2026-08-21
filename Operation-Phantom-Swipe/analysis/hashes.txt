@@ -1,0 +1,15 @@
+File: evidence/skimmer/captured_data.csv
+SHA-256: 799d236e437a3c09f30562ce597203b2cfa3525bd5be5bfa80f26385bd20e08e
+
+File: evidence/skimmer/device_log.txt
+SHA-256: ca8bf350dc1f86792c848cc2afa1e359dc1c6c3e13f2be47baf11ba1371a51bb
+
+File: evidence/mobile/messages.txt
+SHA-256: 49e1a0a824f989affcc0a642cb458fca2ef5c01951fdfc31f7037b8dd042bd86
+
+File: evidence/mobile/gps_log.csv
+SHA-256: ac17f1ab00aab7a0a2b70f3162eda56852ddd082bafacafc569d46da7dc3cd4d
+
+File: evidence/mobile/transactions.csv
+SHA-256: 7bb74636b00d82f3463d8147c396238d2c0bfebeed405f00e795e78cfe5e0769
+PS C:\Users\anuj0\OneDrive\Desktop\Operation-Phantom-Swipe>

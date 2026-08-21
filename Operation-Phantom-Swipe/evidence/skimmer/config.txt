@@ -1,0 +1,11 @@
+DEVICE CONFIGURATION
+====================
+
+Device ID: PS-SK-047
+Mode: SIMULATION
+Collection Interval: 30 seconds
+Storage Mode: LOCAL
+Synchronization: ENABLED
+Transfer Mode: SIMULATED WIRELESS
+Encryption: SIMULATED
+Logging: ENABLED
